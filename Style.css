@@ -1,0 +1,27 @@
+
+        h1 {
+            color: brown
+        }
+        * {
+            border: solid;
+        }
+        body{
+        background-color: #000000;    
+        }
+        .header{
+        background-color: blue;
+        display: flex;    
+        justify-content: space-between;
+        /*margin: 100px 500px 300px 200px;*/  
+        padding: 100px 400px 600px 200px;
+        font-size: small;
+        font-family: 'Courier New', Courier, monospace;
+        }
+        .grid{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;    
+        }
+       p.h1{
+       text-align: center;    
+       }
